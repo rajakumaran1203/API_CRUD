@@ -10,7 +10,7 @@ This is a Django application that provides APIs for User Registration, Generate 
 - Docker Compose
 
 ### Installation and Usage 
- 1. Clone this repository: ``bash git clone https://github.com/yourusername/your-django-app.git
+ 1. Clone this repository: ``bash git clone https://github.com/rajakumaran1203/API_CRUD.git
  2. **Install Django:** Make sure you have Python and `pip` installed. Then, open your terminal and install Django using pip: ` pip install Django `
  3. **Create a Project:** Choose a name for your project (replace `yourproject` with your desired project name) and create the project using the following command: ` django-admin startproject yourproject `
  4. **Navigate to the Project Directory:** Change your working directory to the newly created project directory: ` cd yourproject `
